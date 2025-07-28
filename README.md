@@ -1,4 +1,4 @@
-# hello-world
+# hello
 
 ## Check the variables
 ```bash
