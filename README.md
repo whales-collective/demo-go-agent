@@ -1,4 +1,4 @@
-# Dem Go Agent
+# Demo Go Agent
 
 ## Check the variables
 ```bash
